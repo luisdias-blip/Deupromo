@@ -1,0 +1,1 @@
+Aplicativo mobile que permite consultar produtos em promoção em supermercados próximos, usando geolocalização para exibir ofertas em um mapa, comparar preços por produto e criar listas de compras personalizadas, ajudando o usuário a economizar tempo e dinheiro.
